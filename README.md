@@ -1,4 +1,2 @@
-# UFT---Logica-de-Programacao
-Repositório referente a aulas e exercícios da matéria Lógica de Programação feitos por mim.
-<br>
-OBS: Troque as branchs para visualizar o resto do repositório.
+# Aulas
+Branch referente aos exercícios feitos em aulas no período
